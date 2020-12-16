@@ -1,0 +1,16 @@
+{
+  "name": "M06_L29_TDD_PassWordVerifier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {},
+  "description": ""
+}
